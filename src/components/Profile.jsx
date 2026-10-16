@@ -1,5 +1,5 @@
 import Bio from "./Bio";
-import StatCard from "./StatCard";
+import StatCard from "./StatCard.jsx";
 
 export default function Profile({
   name,
